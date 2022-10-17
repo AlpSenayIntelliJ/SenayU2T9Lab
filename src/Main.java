@@ -1,7 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        LuckyNumbers nums = new LuckyNumbers();
-        String str = nums.getLuckyNumbers();
-        System.out.print(str);
+        double a = Math.cos(12);
+        double b = Math.sin(64);
+        System.out.println(a);
+        System.out.print(b);
     }
 }
